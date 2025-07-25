@@ -6,7 +6,7 @@ Notebook.AI is an intelligent, user-friendly, RAG-based (Retrieval Augmented Gen
 
 ## 🚀 Live Demo
 
-🔗 [Click here to try Notebook.AI live] 
+🔗 
 
 
 ---
