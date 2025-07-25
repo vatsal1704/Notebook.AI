@@ -10,6 +10,13 @@ Notebook.AI is an intelligent, user-friendly, RAG-based (Retrieval Augmented Gen
 
 
 ---
+## 📷Screenshot
+<img width="1920" height="829" alt="Screenshot (378)" src="https://github.com/user-attachments/assets/ea3ce36f-d0bc-42d7-b6de-98068d4e431d" />
+
+<img width="1920" height="844" alt="Screenshot (379)" src="https://github.com/user-attachments/assets/802d987f-514e-4b9b-abde-e6624e6cc6f2" />
+
+
+
 
 ## 🧠 How It Works
 
